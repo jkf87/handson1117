@@ -1,0 +1,23 @@
+{
+  "name": "자동로그인",
+  "trigger_actions": [
+    {
+      "trigger_image": "trigger_image_0.png",
+      "click_positions": [
+        [
+          853,
+          530
+        ]
+      ]
+    },
+    {
+      "trigger_image": "trigger_image_1.png",
+      "click_positions": [
+        [
+          969,
+          706
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "trigger_actions": [
+    {
+      "trigger_image": "trigger_image_0.png",
+      "click_positions": [
+        [
+          1439,
+          713
+        ],
+        [
+          1439,
+          713
+        ]
+      ]
+    }
+  ]
+}
